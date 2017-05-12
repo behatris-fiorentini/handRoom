@@ -1,0 +1,22 @@
+USUÁRIO E SENHA PRINCIPAl:
+
+USUÁRIO: handroom@gmail.com
+SENHA: 123
+
+
+Todos os dados de teste de cadastro feitos durante o desenvolvimento estão incluidos. Caso queira resetar alguma tabela (voltar o id/código para 1) basta utilizar o comando:
+ALTER TABLE tabela AUTO_INCREMENT = 1 ;
+
+
+
+PASTA ARDUÍNO:
+Possui o código da plataforma Arduíno para ser carregado para a placa e o esquema de como os pinos e alimetação eletrica deve ser feita.
+
+PASTA BANCO DE DADOS:
+Possui o banco de dados do sistema que deve ser gerado em um SGBD. No trabalho foi usado o phpMyAdmin e o SQL lyong.
+
+PASTA JAVA:
+Possui o código Java para comunicação serial entre máquina e Arduíno. Utulização da biblioteca RXTX está descrita dentro da pasta Java.
+
+PASTA WEB:
+Possui o Website handRoom desenvolvido em PHP, HTML/CSS e frameworks afins.

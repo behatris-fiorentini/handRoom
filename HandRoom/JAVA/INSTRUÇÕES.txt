@@ -1,0 +1,6 @@
+INSTRUÇÕES PARA UTILIZAÇÃO DA BIBLIOTECA RXTX
+
+Para que a comunicação serial entre Arduíno e Java funcione, é preciso utilizar a biblioteca RXTX (Windows) ou Javacomm (Linux).
+No caso deste projeto, foi utilizada a RXTX e as configurações para que ela funcione pode ser vista no link abaixo:
+
+http://www.devmedia.com.br/utilizando-a-api-rxtx-para-manipulacao-da-serial-parte-i/6722
